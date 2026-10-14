@@ -1,0 +1,2 @@
+# Equipos-desconocidos
+Equipos reseteados
